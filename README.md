@@ -6,7 +6,7 @@
 
 *interested in technology, creativity, and the things people build.*
 
-i'm studying data science at **rice university**, with a background in computer science.
+studying data science @ **rice university**
 
 i like exploring ideas, figuring out how things work, and building things along the way. i'm especially interested in artificial intelligence, digital marketing, startups, and how technology shapes the way we live and work.
 
