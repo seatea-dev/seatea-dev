@@ -14,15 +14,15 @@ i like exploring ideas, figuring out how things work, and building things along 
 
 ### things i'm interested in.
 
-`artificial intelligence` · `building things` · `digital marketing` · `automation` · `data science` · `entrepreneurship` · `product & growth`
+`artificial intelligence` · `data science` · `data analysis` · `digital marketing` · `automation` · `product & growth`
 
-### things i use to build.
+### tools & technologies (recently)
 
 `python` · `typescript` · `sql` · `pandas` · `pyspark` · `scikit-learn` · `docker` · `llms` · `ai agents` · `cloud computing`
 
 ---
 
-*read essays. go down rabbit holes. learn to code. create art. learn persuasion. notice patterns. visualise them. follow your intuition. build things. experiment often. ask better questions. take something seriously. refine your thinking. be different. choose different. iterate violently. write more. talk to strangers. stay curious. value your time. do great work. what do you want to create?*
+*read essays. go down rabbit holes. create art. learn persuasion. notice patterns. visualise them. follow your intuition. build things. experiment often. ask better questions. take something seriously. refine your thinking. be different. choose different. iterate violently. write more. talk to strangers. stay curious. value your time. do great work. what do you want to create?*
 
 ---
 
