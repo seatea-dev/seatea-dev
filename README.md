@@ -26,6 +26,6 @@ i like exploring ideas, figuring out how things work, and building things along 
 
 ---
 
-### let's be friends :)
+### let's not be strangers!
 
 [linkedin](https://www.linkedin.com/in/chiragtelang) · [email](mailto:seatea.dev@gmail.com) · [book a chat](https://cal.com/chirag.me)
