@@ -28,4 +28,4 @@ i like exploring ideas, figuring out how things work, and building things along 
 
 ### elsewhere.
 
-[linkedin](YOUR_LINKEDIN_URL) · [email](mailto:YOUR_EMAIL) · [book a chat](https://cal.com/chirag.me)
+[linkedin](https://www.linkedin.com/in/chiragtelang) · [email](mailto:seatea.dev@gmail.com) · [book a chat](https://cal.com/chirag.me)
